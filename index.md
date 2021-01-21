@@ -2,7 +2,7 @@
 
 * [Introduction](#Introduction)
 * [Goal](#Goal)
-* [Team Members](#Team Members)
+* [Team Members](#Team-Members)
 
 # Introduction 
 EnvironmentalOverflow is a student software engineering team based at the University of Hawaii at Manoa. During the spring of 2021 we aim to complete a client request project within a three month period and this home page will be updated as we progress. As a team we hope to produce a project that per request of our client benefits the community in an impactful way. Thank you. 
