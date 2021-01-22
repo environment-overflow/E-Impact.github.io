@@ -12,7 +12,7 @@ The goal of this team project is to produce an application with the intent to sp
 Our goal for the application includes the ability for our users to track personal and community level impacts on the statistical values surrounding greenhouse gas emissions. We aim to provide relevant data in the form of close approximations and graphical tools to help our users visualize what kind of an impact they are truly having. 
 
 # Team Members
-Environment Overflow is a student-run team including the following:
+Environment Overflow is a student-run team including the following:  
 [Jake Camarao](https://jcamarao.github.io/).  
 [James K Lau](https://jklaulau.github.io/).  
 [Justin Mar](https://justin-mar.github.io/).  
