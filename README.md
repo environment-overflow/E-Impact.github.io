@@ -1,1 +1,1 @@
-This repo contains the doc for Environment Overflow. To visit the home page go to: [https://environment-overflow.github.io/E-Impact.github.io/](https://environment-overflow.github.io/E-Impact.github.io/)
+This repo contains the doc for Environment Overflow. To visit the home page go to: [https://environment-overflow.github.io/E-Impact.github.io/](https://environment-overflow.github.io/)
