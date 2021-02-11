@@ -11,6 +11,42 @@ Environment Overflow is a student software engineering team based at the Univers
 The goal of this team project is to produce an application with the intent to spark interest regarding the issues of climate change. While tackling the whole issue of climate change during a three-month time frame is quite extreme, we humbly narrow our focus to one specific area of study, vehicles and their use of fossil fuels. Our team goal is to produce an application that is both informative and interactive, something that has an impact that engages the community to produce a positive change.  
 Our goal for the application includes the ability for our users to track personal and community level impacts on the statistical values surrounding greenhouse gas emissions. We aim to provide relevant data in the form of close approximations and graphical tools to help our users visualize what kind of an impact they are truly having. 
 
+# Mockup Pages
+
+* Landing Page
+
+This is the pages all users will be greeted with. Here they can learn a little bit about the site and sign in to their account or create a new one
+
+<img src="images/M1_LANDING.png">
+
+* Login Page
+
+This is the login page that allows returning users to sign in to their account.
+
+<img src="images/M1_SIGNIN.png">
+
+* Dashboard
+
+Here we wlil show signed in users their personalized graphs and charts with their data that they enter.
+
+<img src="images/M1_DASHBOARD.png">
+
+* Add Trip
+
+On this page the users can log a transportation trip in order to see the resulting graphs/charts
+
+<img src="images/M1_ADD.png">
+
+* Community Page
+
+A page where other users can see the total GHG detail for all users within a zipcode and all users using the application.
+
+<img src="images/M1_COMMUNITY1.png">
+
+# Use Case
+
+This site is designed for people who are already interested in their environmental impact as well as getting people who aren't yet  interested, interested. Here they can see their impact as well as compare it to others in their community. Hopefully this will encourage people to be more environmentally friendly with the things they do in their everyday lives.
+
 # Team Members
 Environment Overflow is a student-run team including the following:  
 [Jake Camarao](https://jcamarao.github.io/).  
