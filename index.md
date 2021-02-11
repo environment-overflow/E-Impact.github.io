@@ -43,6 +43,12 @@ A page where other users can see the total GHG detail for all users within a zip
 
 <img src="images/M1_COMMUNITY1.png">
 
+* Daily Page
+
+Shows their daily inputted data with formulas that show how much GHG the user produced/saved, etc.
+
+<img src="images/M1_DAILY.png">
+
 # Use Case
 
 This site is designed for people who are already interested in their environmental impact as well as getting people who aren't yet  interested, interested. Here they can see their impact as well as compare it to others in their community. Hopefully this will encourage people to be more environmentally friendly with the things they do in their everyday lives.
