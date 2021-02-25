@@ -43,8 +43,7 @@ A page where other users can see the total GHG detail for all users within a zip
 
 <img src="images/M3_community_page1.png">
 
-We also allow our users to click on the provided links to learn more about environmentally friendly transportation.
-
+We also allow our users to click on the provided links to learn more about how they can help save the environment.
 <img src="images/M3_community_page2.png">
 
 * Daily Page
