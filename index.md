@@ -29,25 +29,29 @@ This is the login page that allows returning users to sign in to their account.
 
 Here we wlil show signed in users their personalized graphs and charts with their data that they enter.
 
-<img src="images/M1_DASHBOARD.png">
+<img src="images/M3_dashboard.png">
 
 * Add Trip
 
 On this page the users can log a transportation trip in order to see the resulting graphs/charts
 
-<img src="images/M1_ADD.png">
+<img src="images/M3_add_trip.png">
 
 * Community Page
 
 A page where other users can see the total GHG detail for all users within a zipcode and all users using the application.
 
-<img src="images/M1_COMMUNITY1.png">
+<img src="images/M3_community_page1.png">
+
+We also allow our users to click on the provided links to learn more about environmentally friendly transportation.
+
+<img src="images/M3_community_page2.png">
 
 * Daily Page
 
 Shows their daily inputted data with formulas that show how much GHG the user produced/saved, etc.
 
-<img src="images/M1_DAILY.png">
+<img src="images/M3_daily_page.png">
 
 # Use Case
 
