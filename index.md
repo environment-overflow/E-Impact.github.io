@@ -1,5 +1,3 @@
-![ci-badge](https://github.com/environment-overflow/E-Impact/workflows/ci-testcafe-E-Impact/badge.svg)
-
 ## Table of Contents
 
 * [Introduction](#Introduction)
