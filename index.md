@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 * [Introduction](#Introduction)
 * [Goal](#Goal)
@@ -13,31 +13,31 @@ Our goal for the application includes the ability for our users to track persona
 
 # Mockup Pages
 
-* Landing Page
+## Landing Page
 
 This is the pages all users will be greeted with. Here they can learn a little bit about the site and sign in to their account or create a new one
 
 <img src="images/Site_Images_4-15/Landing.png">
 
-* Login Page
+## Login Page
 
 This is the login page that allows returning users to sign in to their account.
 
 <img src="images/M1_SIGNIN.png">
 
-* Dashboard
+## Dashboard
 
 Here we wlil show signed in users their personalized graphs and charts with their data that they enter.
 
 <img src="images/Site_Images_4-15/Dashboard.png">
 
-* Add Trip
+## Add Trip
 
 On this page the users can log a transportation trip in order to see the resulting graphs/charts. We've added the ability to save trips and here they can now select the saved trip to add, to save some time, and make sure you don't enter anything incorrectly by accident.
 
 <img src="images/Site_Images_4-15/AddTrip.png">
 
-* Community Page
+## Community Page
 
 A page where other users can see the total GHG detail for all users within a zipcode and all users using the application.
 
@@ -46,25 +46,25 @@ A page where other users can see the total GHG detail for all users within a zip
 We also allow our users to click on the provided links to learn more about how they can help save the environment.
 
 
-* Daily Page
+## Daily Page
 
 Shows their daily inputted data with formulas that show how much GHG the user produced/saved, etc.
 
 <img src="images/Site_Images_4-15/Daily.png">
 
-* Admin Page
+## Admin Page
 
 Here an Admin can look at all the users and their trips and delete anything necessary based on suspicious activity etc.
 
 <img src="images/Site_Images_4-15/Admin.png">
 
-* Quick Access
+## Quick Access
 
 Quick access is accessible from the landing page and will give users who haven't signed up a taste of what lies inside.
 
 <img src="images/Site_Images_4-15/QuickAccess.png">
 
-* Get Involved
+## Get Involved
 
 This page is also accessible from the landing page and gives more information as well as links to other organizations that are helping our planet be more eco-friendly.
 
